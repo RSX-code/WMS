@@ -1,0 +1,31 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# Environment
+.env
+.env.*
+*.env
+!.env.example
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Application settings containing secrets
+appsettings.json

@@ -1,0 +1,33 @@
+
+# .NET Build results
+[Bb]in/
+[Oo]bj/
+
+# .NET user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.DotSettings.user
+
+# Environment variables and local settings
+.env
+*.env
+appsettings.Local.json
+appsettings.*.Local.json
+
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
